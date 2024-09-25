@@ -15,6 +15,7 @@ import org.junit.runner.RunWith;
                 "json:target/jsonReport/report.json"
         }
 )
+
 public class TestRunner {
 }
 
